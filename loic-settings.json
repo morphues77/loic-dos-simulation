@@ -1,0 +1,11 @@
+
+{
+  "target_ip": "__.__.__.__",
+  "method": "",
+  "port": ,
+  "threads": 100,
+  "timeout": 9001,
+  "http_subsite": "/",
+  "wait_for_reply": true,
+  "message": "A cat is fine too. Desudesudesu~"
+}
